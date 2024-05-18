@@ -1,0 +1,650 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Maxim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|solutionrelative:maxim_data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|solutionrelative:maxim_core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_business\\services\\concretes\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|solutionrelative:maxim_business\\services\\concretes\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_business\\exceptions\\blog\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|solutionrelative:maxim_business\\exceptions\\blog\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C670617-8C3B-4D04-9C8D-211C03F03556}|Maxim\\Maxim.csproj|solutionrelative:maxim\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_business\\exceptions\\blog\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|solutionrelative:maxim_business\\exceptions\\blog\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_business\\exceptions\\blog\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|solutionrelative:maxim_business\\exceptions\\blog\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_business\\exceptions\\blog\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|solutionrelative:maxim_business\\exceptions\\blog\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_business\\services\\abstracts\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E67E4-61F3-4EFE-A8C3-DFBE306E5AB8}|Maxim_Business\\Maxim_Business.csproj|solutionrelative:maxim_business\\services\\abstracts\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_data\\repositoryconcretes\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|solutionrelative:maxim_data\\repositoryconcretes\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|solutionrelative:maxim_data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_core\\repositoryabstracts\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|solutionrelative:maxim_core\\repositoryabstracts\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|solutionrelative:maxim_core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|solutionrelative:maxim_core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD82D146-9859-449A-A85A-73DEEDA7AF6E}|Maxim_Core\\Maxim_Core.csproj|solutionrelative:maxim_core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_data\\migrations\\20240518144304_addblogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|solutionrelative:maxim_data\\migrations\\20240518144304_addblogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_data\\migrations\\20240518172340_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|solutionrelative:maxim_data\\migrations\\20240518172340_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_data\\migrations\\20240518174402_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|solutionrelative:maxim_data\\migrations\\20240518174402_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|c:\\users\\asus\\source\\repos\\maxim\\maxim_data\\migrations\\20240518174052_addblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFD54B1-2DCC-4F95-836C-C9747D35EEF7}|Maxim_Data\\Maxim_Data.csproj|solutionrelative:maxim_data\\migrations\\20240518174052_addblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T18:29:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Maxim\\ViewModel\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "Maxim\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:14:38.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAE0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T17:55:55.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Maxim\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "Maxim\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:51:37.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240518174402_AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518174402_AddUser.cs",
+              "RelativeDocumentMoniker": "Maxim_Data\\Migrations\\20240518174402_AddUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518174402_AddUser.cs",
+              "RelativeToolTip": "Maxim_Data\\Migrations\\20240518174402_AddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:44:02.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240518174052_AddBlog.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518174052_AddBlog.cs",
+              "RelativeDocumentMoniker": "Maxim_Data\\Migrations\\20240518174052_AddBlog.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518174052_AddBlog.cs",
+              "RelativeToolTip": "Maxim_Data\\Migrations\\20240518174052_AddBlog.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:40:53.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Maxim\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Maxim\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:28:32.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240518172340_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518172340_AddUserTable.cs",
+              "RelativeDocumentMoniker": "Maxim_Data\\Migrations\\20240518172340_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518172340_AddUserTable.cs",
+              "RelativeToolTip": "Maxim_Data\\Migrations\\20240518172340_AddUserTable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:23:40.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Maxim_Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Maxim_Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:14:17.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T16:37:32.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T16:12:07.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T16:00:02.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:59:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T15:55:50.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T15:55:31.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAmwIQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T15:55:03.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAmwH4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T15:46:52.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:46:20.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Maxim\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Maxim\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-18T15:36:55.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Maxim_Business\\Exceptions\\Blog\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\FileNotFoundException.cs",
+              "RelativeToolTip": "Maxim_Business\\Exceptions\\Blog\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:15:04.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Maxim_Business\\Exceptions\\Blog\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Maxim_Business\\Exceptions\\Blog\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:12:19.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Maxim_Business\\Exceptions\\Blog\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\FileSizeException.cs",
+              "RelativeToolTip": "Maxim_Business\\Exceptions\\Blog\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:05:35.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\FileContentTypeException.cs",
+              "RelativeDocumentMoniker": "Maxim_Business\\Exceptions\\Blog\\FileContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Exceptions\\Blog\\FileContentTypeException.cs",
+              "RelativeToolTip": "Maxim_Business\\Exceptions\\Blog\\FileContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:03:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Services\\Concretes\\BlogService.cs",
+              "RelativeDocumentMoniker": "Maxim_Business\\Services\\Concretes\\BlogService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Services\\Concretes\\BlogService.cs",
+              "RelativeToolTip": "Maxim_Business\\Services\\Concretes\\BlogService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowCsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:00:46.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Services\\Abstracts\\IBlogService.cs",
+              "RelativeDocumentMoniker": "Maxim_Business\\Services\\Abstracts\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Services\\Abstracts\\IBlogService.cs",
+              "RelativeToolTip": "Maxim_Business\\Services\\Abstracts\\IBlogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:59:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\RepositoryConcretes\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "Maxim_Data\\RepositoryConcretes\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\RepositoryConcretes\\BlogRepository.cs",
+              "RelativeToolTip": "Maxim_Data\\RepositoryConcretes\\BlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:57:46.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "Maxim_Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "RelativeToolTip": "Maxim_Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:57:15.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Maxim_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Maxim_Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:51:13.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Maxim_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Maxim_Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:49:26.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240518144304_AddBlogTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518144304_AddBlogTable.cs",
+              "RelativeDocumentMoniker": "Maxim_Data\\Migrations\\20240518144304_AddBlogTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Migrations\\20240518144304_AddBlogTable.cs",
+              "RelativeToolTip": "Maxim_Data\\Migrations\\20240518144304_AddBlogTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:43:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\appsettings.json",
+              "RelativeDocumentMoniker": "Maxim\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\appsettings.json",
+              "RelativeToolTip": "Maxim\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T14:40:25.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Maxim_Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Maxim_Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:38:02.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Maxim_Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Maxim_Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:32:15.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Maxim_Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Models\\Blog.cs",
+              "RelativeToolTip": "Maxim_Core\\Models\\Blog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:32:00.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:22:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAmwJIBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:22:06.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:16:52.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Maxim\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Maxim\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:16:32.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Program.cs",
+              "RelativeDocumentMoniker": "Maxim\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Program.cs",
+              "RelativeToolTip": "Maxim\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:06:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
