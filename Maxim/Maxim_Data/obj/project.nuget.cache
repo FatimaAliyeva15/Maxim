@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DPln+s7HDPSW/NZywB1OFcU4ekzqV4iwpNw7UVPV5YUqE4f5E6C072QM2B8k/PAiZmH9GYKx2PVvsEB60jhBtg==",
+  "dgSpecHash": "THvD5X3Rht5xYVIcuFQubj4/n8b2rKDQR5fqTLMwXknQn+Yf2CzqvhvCTDrpyty+ungFbfWTgnMt64b216VKgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Data\\Maxim_Data.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Data\\Maxim_Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maxim_Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17d9a6bc4f45e3cfee5cfa53b221095e039975c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maxim_Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maxim_Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Maxim_Core.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Core\\Maxim_Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Maxim_Core.csproj": {
+    "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Core\\Maxim_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Maxim_Core.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Core\\Maxim_Core.csproj",
         "projectName": "Maxim_Core",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Maxim_Core.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Core\\Maxim_Core.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,3 +10,16 @@ C:\Users\Asus\source\repos\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.dll
 C:\Users\Asus\source\repos\Maxim\Maxim_Core\obj\Debug\net7.0\refint\Maxim_Core.dll
 C:\Users\Asus\source\repos\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.pdb
 C:\Users\Asus\source\repos\Maxim\Maxim_Core\obj\Debug\net7.0\ref\Maxim_Core.dll
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\bin\Debug\net7.0\Maxim_Core.deps.json
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\bin\Debug\net7.0\Maxim_Core.dll
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\bin\Debug\net7.0\Maxim_Core.pdb
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.sourcelink.json
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.dll
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\refint\Maxim_Core.dll
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\Maxim_Core.pdb
+C:\Users\Asus\Desktop\TASK\MVCProject_Maxim\Maxim\Maxim_Core\obj\Debug\net7.0\ref\Maxim_Core.dll

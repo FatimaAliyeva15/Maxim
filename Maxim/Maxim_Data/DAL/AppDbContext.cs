@@ -16,6 +16,6 @@ namespace Maxim_Data.DAL
 		}
 
 		DbSet<Blog> Blogs { get; set; }
-		//DbSet<AppUser> AppUsers { get; set; }
+		DbSet<AppUser> AppUsers { get; set; }
 	}
 }

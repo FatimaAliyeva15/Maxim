@@ -11527,11 +11527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Maxim.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim\\Maxim.csproj",
       "projectName": "Maxim",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\Maxim.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim\\Maxim.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11549,8 +11549,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Maxim_Business.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Business\\Maxim_Business.csproj"
+            "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Business\\Maxim_Business.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Business\\Maxim_Business.csproj"
             }
           }
         }

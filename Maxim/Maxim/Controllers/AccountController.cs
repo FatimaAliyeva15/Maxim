@@ -18,18 +18,6 @@ namespace Maxim.Controllers
 			_roleManager = roleManager;
 		}
 
-		
-		public async Task<IActionResult> CreateRole()
-		{
-			IdentityRole role1 = new IdentityRole("Admin");
-			IdentityRole role2 = new IdentityRole("Member");
-
-			await _roleManager.CreateAsync(role1);
-			await _roleManager.CreateAsync(role2);
-
-			return Ok("Rollar yarandi");
-		}
-
 		public IActionResult Register()
 		{
 			return View();
@@ -43,8 +31,8 @@ namespace Maxim.Controllers
 			AppUser user = new AppUser()
 			{
 				FullName = registerVM.Name,
-				Email = registerVM.Email,
 				UserName = registerVM.UserName,
+				Email = registerVM.Email
 			};
 
             var result = await _userManager.CreateAsync(user, registerVM.Password);
@@ -59,9 +47,21 @@ namespace Maxim.Controllers
 				return View();
 			}
 
-			await _userManager.AddToRoleAsync(user, "Admin");
+			await _userManager.AddToRoleAsync(user, "Member");
 
 			return RedirectToAction(nameof(Login));
+		}
+
+		public async Task<IActionResult> CreateRole()
+		
+		{
+			IdentityRole role1 = new IdentityRole("Admin");
+			IdentityRole role2 = new IdentityRole("Member");
+
+			await _roleManager.CreateAsync(role1);
+			await _roleManager.CreateAsync(role2);
+
+			return Ok("Rollar yarandi");
 		}
 
         public IActionResult Login()

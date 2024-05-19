@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v7ujlPC6WYacu8rWZORbsG8XviuysQSskCxjzfsdp8axgPm6l6UxCd81vnq2swbHvC0utN5H/yOT/wBXpYc+zw==",
+  "dgSpecHash": "vJTiCkCozLVwgUTacz8DE/WjsLvIE+9DXq8q5wNRI4atA7M4yidafo7LlxaERUotXFVVY59VQpYYuD2E3otS6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Maxim\\Maxim_Core\\Maxim_Core.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_Maxim\\Maxim\\Maxim_Core\\Maxim_Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.19\\microsoft.aspnetcore.cryptography.internal.7.0.19.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.19\\microsoft.aspnetcore.cryptography.keyderivation.7.0.19.nupkg.sha512",
